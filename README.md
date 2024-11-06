@@ -91,6 +91,8 @@ accuracy
 ![image](https://github.com/user-attachments/assets/ae8abb9e-a0e6-48db-94b8-66470d5437c8)
 ![image](https://github.com/user-attachments/assets/6c6e37b6-2990-491f-a61d-9d776816ecd2)
 ![image](https://github.com/user-attachments/assets/1ebd23fa-6bd6-47ad-a8bc-bc15d7272544)
+![image](https://github.com/user-attachments/assets/fea9bc08-8f6d-483d-9c90-b65e7d040552)
+![image](https://github.com/user-attachments/assets/a8e1d4fa-c35a-45de-a7ec-943c58bd3660)
 
 
 
