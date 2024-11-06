@@ -82,13 +82,16 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
-```
 
-<h2>OUTPUT<h2>
-![Screenshot 2024-11-06 093420](https://github.com/user-attachments/assets/79efa94e-f891-457a-82d0-10adac89735c)
-![Screenshot 2024-11-06 093439](https://github.com/user-attachments/assets/0e53b13f-6ae5-4e1f-95ab-217117b72caa)
-![Screenshot 2024-11-06 093453](https://github.com/user-attachments/assets/d11c8db5-5a07-461e-a23c-e874043b7cad)
-![Screenshot 2024-11-06 093504](https://github.com/user-attachments/assets/ad93b019-861e-4df7-b69d-4babdf26d096)
+## output:
+
+
+![image](https://github.com/user-attachments/assets/2aa966fd-1de6-4c0d-ba3c-07c0335f4ec8)
+![image](https://github.com/user-attachments/assets/4f26dafb-1377-4e00-975d-510cd0d7cc77)
+![image](https://github.com/user-attachments/assets/ae8abb9e-a0e6-48db-94b8-66470d5437c8)
+![image](https://github.com/user-attachments/assets/6c6e37b6-2990-491f-a61d-9d776816ecd2)
+![image](https://github.com/user-attachments/assets/1ebd23fa-6bd6-47ad-a8bc-bc15d7272544)
+
 
 
 ## Result:
