@@ -84,7 +84,7 @@ accuracy
 ```
 ```
 
-## Output:
+<h2>OUTPUT<h2>
 ![Screenshot 2024-11-06 093420](https://github.com/user-attachments/assets/79efa94e-f891-457a-82d0-10adac89735c)
 ![Screenshot 2024-11-06 093439](https://github.com/user-attachments/assets/0e53b13f-6ae5-4e1f-95ab-217117b72caa)
 ![Screenshot 2024-11-06 093453](https://github.com/user-attachments/assets/d11c8db5-5a07-461e-a23c-e874043b7cad)
